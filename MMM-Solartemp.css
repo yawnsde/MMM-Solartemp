@@ -1,0 +1,23 @@
+/*
+ *
+ * MMM-Solartemp
+ *
+ * yawnsde
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+
+ .figures {
+	 text-align: left;
+ }
+ 
+ .sensor {
+	 padding-right: 10px;
+	 float: left;
+ }
+ 
+ .temperature {
+	 float: right;
+ }
